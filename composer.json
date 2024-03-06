@@ -1,0 +1,21 @@
+{
+    "name": "dying-surfer/php-hello-world",
+    "description": "Test",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "11"
+    },
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "DyingSurfer\\PhpHelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dying-surfer",
+            "email": "ralph.schneller@gmail.com"
+        }
+    ],
+    "require": {}
+}
